@@ -2,3 +2,7 @@ body {
     background-color: linen;
     color: maroon;
 }
+
+li {
+        color: darkgreen;
+}
