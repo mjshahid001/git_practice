@@ -6,3 +6,8 @@ body {
 li {
         color: darkgreen;
 }
+
+footer {
+    font-size: small;
+    color: grey;
+}
